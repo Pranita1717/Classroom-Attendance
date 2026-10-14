@@ -1,0 +1,30 @@
+{
+    "categorical_features": [
+        "Day",
+        "Subject",
+        "Faculty ID",
+        "Branch",
+        "Section",
+        "Classroom",
+        "Practical/Theory",
+        "Test Week",
+        "Assignment Due",
+        "Holiday",
+        "Weather",
+        "Special Event",
+        "Lecture Occurred"
+    ],
+    "numerical_features": [
+        "Lecture Number",
+        "Semester",
+        "Total Enrolled Students",
+        "Previous Lecture Attendance",
+        "Faculty Experience Years",
+        "Previous Attendance Missing",
+        "Start Hour",
+        "Day of Semester",
+        "Week Number",
+        "Rolling 3 Lecture Attendance"
+    ],
+    "target": "Attendance %"
+}
